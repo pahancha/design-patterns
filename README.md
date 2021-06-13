@@ -3,6 +3,7 @@ Design patterns represent the best practices used by experienced object-oriented
 
 
 ###There are around 23 design patterns and they can be classified under 3 main categories as,
+
 	1. Creational Patterns
 	2. Structural Patterns
 	3. Behavioral Patterns
